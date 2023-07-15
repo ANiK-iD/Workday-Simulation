@@ -80,7 +80,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1593,7 +1593,6 @@
             <slidelink slideid="_player.60SNc3kAIGG.6DmKGltCxAq" displaytext="Click Submit" expand="false" type="slide" />
             <slidelink slideid="_player.60SNc3kAIGG.5zQqn3ZnykC" displaytext="Leave Request Submitted" expand="false" type="slide" />
             <slidelink slideid="_player.60SNc3kAIGG.5YUPlbQ2wih" displaytext="Completion Page" expand="false" type="slide" />
-            <slidelink slideid="_player.60SNc3kAIGG.6cH3J7rXX3C" displaytext="Feedback Form" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
